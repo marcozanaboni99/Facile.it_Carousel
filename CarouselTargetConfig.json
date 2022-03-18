@@ -1,0 +1,89 @@
+[
+   {
+      "startDate": "2018-11-01",
+      "targets": [
+         {
+            "tokensSold": 100,
+            "carouselRides": 200,
+            "avgTokenPrice": 1.00,
+            "recompenseForTokenSold": 0.10
+         },
+         {
+            "tokensSold": 180,
+            "carouselRides": 400,
+            "avgTokenPrice": 1.10,
+            "recompenseForTokenSold": 0.12
+         },
+         {
+            "tokensSold": 300,
+            "carouselRides": 750,
+            "avgTokenPrice": 1.20,
+            "recompenseForTokenSold": 0.30
+         },
+         {
+            "tokensSold": 500,
+            "carouselRides": 1500,
+            "avgTokenPrice": 1.50,
+            "recompenseForTokenSold": 0.50
+         }
+      ]
+   },
+   {
+      "startDate": "2018-12-01",
+      "targets": [
+         {
+            "tokensSold": 100,
+            "carouselRides": 200,
+            "avgTokenPrice": 1.00,
+            "recompenseForTokenSold": 0.10
+         },
+         {
+            "tokensSold": 200,
+            "carouselRides": 400,
+            "avgTokenPrice": 1.10,
+            "recompenseForTokenSold": 0.12
+         },
+         {
+            "tokensSold": 400,
+            "carouselRides": 800,
+            "avgTokenPrice": 1.20,
+            "recompenseForTokenSold": 0.44
+         },
+         {
+            "tokensSold": 800,
+            "carouselRides": 1600,
+            "avgTokenPrice": 0.50,
+            "recompenseForTokenSold": 2.10
+         }
+      ]
+   },
+   {
+      "startDate": "2022-03-01",
+      "targets": [
+         {
+            "tokensSold": 180,
+            "carouselRides": 360,
+            "avgTokenPrice": 1.00,
+            "recompenseForTokenSold": 0.22
+         },
+         {
+            "tokensSold": 200,
+            "carouselRides": 400,
+            "avgTokenPrice": 1.10,
+            "recompenseForTokenSold": 0.12
+         },
+         {
+            "tokensSold": 250,
+            "carouselRides": 500,
+            "avgTokenPrice": 1.20,
+            "recompenseForTokenSold": 0.44
+         },
+         {
+            "tokensSold": 600,
+            "carouselRides": 1250,
+            "avgTokenPrice": 1.50,
+            "recompenseForTokenSold": 2.10
+         }
+      ]
+   }
+]

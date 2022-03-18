@@ -1,0 +1,24 @@
+[{  
+    "tokensSold": 200,
+    "carouselRides": 211,
+    "avgTokenPrice": 1.10,
+    "carouselName": "Manuela"
+},
+{  
+    "tokensSold": 587,
+    "carouselRides": 1600,
+    "avgTokenPrice": 1.51,
+    "carouselName": "Giovanni"
+},
+{  
+    "tokensSold": 542,
+    "carouselRides": 1024,
+    "avgTokenPrice": 1.67,
+    "carouselName": "Alberto"
+},
+{  
+    "tokensSold": 122,
+    "carouselRides": 344,
+    "avgTokenPrice": 1.2,
+    "carouselName": "Sonia"
+}]
